@@ -70,8 +70,11 @@ for key, info in inventory.items():
 print(f"{update_product} quantity updated successfully!")
 
 # Low-stock alert
+low_stock = set()
 
-# I DO NOT KNOW HOW TO USE A SET for LOW STOCK ALERT
+for name, info in inventory.items():
+    if info["quantity"] < 10:
+        low_stock.add(name)
 
 
 
