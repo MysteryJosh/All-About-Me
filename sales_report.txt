@@ -1,0 +1,11 @@
+SALES REPORT
+========================================
+
+Total Revenue: $ 209.93
+
+Revenue by Product:
+________________________________________
+Widget B: Quantity Sold = 7, Revenue = $ 209.93
+
+Highest Revenue Day:2026-01-18
+Revenue on Highest Day: $209.93
